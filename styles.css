@@ -242,7 +242,7 @@ main {
       }
 
       .primeira-secao button:hover {
-        background-color: var(--dark-blue)
+        background-color: var(--dark-blue);
         cursor: pointer;
       }
   
